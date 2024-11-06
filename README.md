@@ -101,6 +101,7 @@ print(report)
 ```
 
 ## Output:
+![Screenshot 2024-11-06 033014](https://github.com/user-attachments/assets/50121d48-e84d-4566-ac1a-429b5f8d735a)
 
 
 
